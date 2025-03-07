@@ -12,7 +12,20 @@
           "package_name": "com.example.phsycos_fitness_bible"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "683007456613-o217fbhmc7nl2rkd20d2dvroflo42frb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phsycos_fitness_bible",
+            "certificate_hash": "69caeab15b8ed292be0904f6bfb8ff6ff49219c0"
+          }
+        },
+        {
+          "client_id": "683007456613-g44j4c2edp6o5chkh9f85o0nr5fg9kbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyDsq3Fbn6c0n5RaaOOfR5V4-XhezEgrTi4"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683007456613-g44j4c2edp6o5chkh9f85o0nr5fg9kbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
