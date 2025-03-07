@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "683007456613",
+    "project_id": "phsyco-s-fitness-bible",
+    "storage_bucket": "phsyco-s-fitness-bible.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683007456613:android:db028383a87aa117855d8c",
+        "android_client_info": {
+          "package_name": "com.example.phsycos_fitness_bible"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsq3Fbn6c0n5RaaOOfR5V4-XhezEgrTi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
